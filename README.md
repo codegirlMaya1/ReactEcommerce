@@ -1,1 +1,1 @@
-# ReactEcommerce
+# ReactEcommerce app allows users to filter products by category name and price, includes tests, user login, lanquage translation, users can update profile information and see past orders with  product image.
